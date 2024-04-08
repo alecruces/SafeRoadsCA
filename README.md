@@ -1,6 +1,8 @@
 ### Fatalities in Car Accidents: A Case Study in Canada
 
 ---
+![cars1](https://github.com/alecruces/car-fatalities-prediction/assets/67338986/2d01aad4-caad-4bfc-bd73-1bce353324c2)
+
 
 #### Description
 The main objective of the project is to identify the most effective way to allocate resources for preventing car accidents in Canada by identifying the factors that influence the likelihood and severity of them.
