@@ -27,7 +27,7 @@ R
 
 ### Files
 * Code: code.Rmd (R markdown). The code involves data cleaning and filtering, exploratory data analysis,
-creation of new variables, undersampling of the majority class, modeling with logistic regression and knearest neighbors. The final output is the Report file.
+creation of new variables, undersampling of the majority class, modeling with logistic regression and KNN. The final output is the Report file.
 * Report: Report_Car_Accidents.pdf
 * Presentation: Presentation_Car_Accidents.pdf
 
