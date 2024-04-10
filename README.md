@@ -8,7 +8,8 @@ The report presents a comprehensive analysis of car accidents in Canada from 199
 <p align="center">
 <img src="https://github.com/alecruces/car-fatalities-prediction/assets/67338986/2d01aad4-caad-4bfc-bd73-1bce353324c2" alt="cars1" style="width:400px;height:auto;"/>
 </p>
-  
+
+
 ### Keywords
 Exploratory Data Analysis, Statistics and Machine Learning
 
@@ -26,9 +27,9 @@ Our research uses a dataset of Canadian Car Accidents from 1994 to 2014, which w
 R
 
 ### Files
-* Code: code.Rmd (R markdown). The code involves data cleaning and filtering, exploratory data analysis,
+* Code: `code.Rmd` (R markdown). The code involves data cleaning and filtering, exploratory data analysis,
 creation of new variables, undersampling of the majority class, modeling with logistic regression and KNN. The final output is the Report file.
-* Report: Report_Car_Accidents.pdf
-* Presentation: Presentation_Car_Accidents.pdf
+* Report: `Report_Car_Accidents.pdf`
+* Presentation: `Presentation_Car_Accidents.pdf`
 
 ---
